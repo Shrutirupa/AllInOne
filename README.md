@@ -6,7 +6,11 @@ nmap
 nikto
 dirb
 
-I will be adding more enumeration tools later to complete most of my enumeration work at once. 
+I will be adding more tools later to simplify most of my enumeration work at once. 
+
+Note: The work is not completed once. The work is still in progress :)
+
+Incase of any doubt, feel free to contact me at my twitter handle @freak_crypt
 
 
 
